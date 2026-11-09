@@ -1,0 +1,2 @@
+sender_cell,ligand,receptor,receiver_cell,signaling_type,biological_context,expected_response,supporting_databases
+Macrophage,CCL2,CCR2,Monocyte,Paracrine,Inflammation,Monocyte chemotaxis,HPA; OmniPath; STRING
